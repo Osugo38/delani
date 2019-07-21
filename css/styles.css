@@ -61,3 +61,22 @@
   color: white;
   padding-top: 50px;
 }
+::placeholder{
+  color:white;
+}
+#logo{
+  margin-top: 120px;
+  margin-right: 45px;
+  padding: -100px;
+}
+.welcome{
+padding-right: 50px;
+font-size: 10px;
+text-align: center;
+padding-bottom: -50px;
+padding-top: 10px;
+}
+#to{
+  padding-right: 150px;
+  font size:10px;
+}
