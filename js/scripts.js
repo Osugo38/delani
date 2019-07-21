@@ -47,48 +47,61 @@ $(document).ready(function(){
 });
 
 
-/*
-$('#pro4').on("mouseover" , function(){
-        $('.probox').show();
-     });
-
-    $('#pro4').on("mouseout", function(){;
-       $('#probox').hide();
-     });
-
-
-
 $(document).ready(function(){
-  $(".wrap1").mouseover(function(){
-    $("#overlay1").show();
-  }).mouseout(function(){
-    $("#overlay1").hide();
+  $('#pic4').on("mouseover", function() {
+  $('#lip4').show();
+  });
+
+  $('#pic4').on("mouseout", function() {
+    $('#lip4').hide();
+  });
+  $('#pic5').on("mouseover", function() {
+    $('#lip5').show();
+  });
+
+  $('#pic5').on("mouseout", function() {
+    $('#lip5').hide();
+  });
+  $('#pic6').on("mouseover", function() {
+    $('#lip6').show();
+  });
+
+  $('#pic6').on("mouseout", function() {
+    $('#lip6').hide();
+  });
+  $('#pic1').on("mouseover", function() {
+    $('#lip1').show();
+  });
+
+  $('#pic1').on("mouseout", function() {
+    $('#lip1').hide();
+  });
+  $('#pic2').on("mouseover", function() {
+    $('#lip2').show();
+  });
+
+  $('#pic2').on("mouseout", function() {
+    $('#lip2').hide();
+  });
+  $('#pic3').on("mouseover", function() {
+    $('#lip3').show();
+  });
+
+  $('#pic3').on("mouseout", function() {
+    $('#lip3').hide();
+  });
+  $('#pic7').on("mouseover", function() {
+    $('#lip7').show();
+  });
+
+  $('#pic7').on("mouseout", function() {
+    $('#lip7').hide();
+  });
+  $('#pic8').on("mouseover", function() {
+    $('#lip8').show();
+  });
+
+  $('#pic8').on("mouseout", function() {
+    $('#lip8').hide();
   });
 });
-
-$(document).ready(function(){
-  $(".wrap2").mouseover(function(){
-    $("#overlay2").show();
-  }).mouseout(function(){
-    $("#overlay2").hide();
-  });
-});
-
-$(document).ready(function(){
-  $(".wrap3").mouseover(function(){
-    $("#overlay3").show();
-  }).mouseout(function(){
-    $("#overlay3").hide();
-  });
-});
-
-$(document).ready(function(){
-  $(".wrap4").mouseover(function(){
-    $("#overlay4").show();
-  }).mouseout(function(){
-    $("#overlay4").hide();
-  });
-});
-
-
-*/
