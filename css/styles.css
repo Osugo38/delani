@@ -1,0 +1,23 @@
+.img{
+  background-image: url("../images/h_img.jpg");
+  height: 77vh;
+  background-size: cover;
+  display:flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+}
+.img h1{
+  color:White;
+  text-align: center;
+}
+.img p{
+  color: white;
+  text-align: center;
+}
+
+#mouse{
+  padding-top:100px;
+
+}
