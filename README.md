@@ -1,4 +1,4 @@
-# delani
+# Delani Studio
 This is a project that entails of a website for the Delani studio  that is a group of software developers  and it shows different things i.e about them ,services they offer ,what they do, and also how you can contact them.
 
 Below is a screenshot of how it looks;
@@ -20,7 +20,7 @@ First you need to access the git-hub then add the following link and fork it htt
 
 ##Technology  Used
 
- different languages as stated below
+Different languages were used in the same as stated below:
 .html
 .CSS
 .JavaScript
