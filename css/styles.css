@@ -38,14 +38,3 @@
   text-align: center;
 
 }
-.row{
-  margin: 50px;
-}
-.form{
-  text-align: center;
-}
-.contact{
-  background-image: url(../images/c_image.jpg);
-  height:80vh;
-  background-size: cover;
-}
