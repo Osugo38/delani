@@ -21,3 +21,31 @@
   padding-top:100px;
 
 }
+.container{
+  text-align: center;
+}
+.services{
+  background-image: url("../images/s_image.jpg");
+  height:40vh;
+  text-align: center;
+  padding-top: 144px;
+  color: white;
+}
+#do{
+  text-align: center;
+}
+#portfolio{
+  text-align: center;
+
+}
+.row{
+  margin: 50px;
+}
+.form{
+  text-align: center;
+}
+.contact{
+  background-image: url(../images/c_image.jpg);
+  height:80vh;
+  background-size: cover;
+}
