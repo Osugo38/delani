@@ -2,7 +2,7 @@
 This is a project that entails of a website for the Delani studio  that is a group of software developers  and it shows different things i.e about them ,services they offer ,what they do, and also how you can contact them.
 
 Below is a screenshot of how it looks;
-![](studio.jpg)
+![](images/studio.jpg)
 
 
 ##Author
