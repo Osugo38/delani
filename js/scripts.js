@@ -35,3 +35,13 @@ $(document).ready(function(){
 
 });
 });
+
+
+
+
+$(document).ready(function(){
+  $("form").submit(function(event){
+    event.preventDefault();
+    alert("We have received your message.Thank you for reaching out to us!." );
+  });
+});
