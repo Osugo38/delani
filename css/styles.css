@@ -38,3 +38,26 @@
   text-align: center;
 
 }
+.row{
+  margin: 50px;
+}
+.form{
+  text-align: center;
+}
+.contact{
+  background-image: url(../images/c_image.jpg);
+  height:80vh;
+  background-size: cover;
+}
+.social{
+  text-align: center;
+  margin: 20px;
+}
+.final{
+  text-align: center;
+}
+#cont{
+  text-align: center;
+  color: white;
+  padding-top: 50px;
+}
